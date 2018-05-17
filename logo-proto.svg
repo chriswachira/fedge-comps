@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.69999999"
-     inkscape:cx="371.11287"
-     inkscape:cy="375.46242"
+     inkscape:cx="424.34408"
+     inkscape:cy="466.56744"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -44,12 +44,12 @@
      inkscape:measure-start="705.086,521.618"
      inkscape:measure-end="714.286,521.618">
     <sodipodi:guide
-       position="22.678571,180.67262"
+       position="11.43378,75.87872"
        orientation="1,0"
        id="guide833"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="188.98809,184.0744"
+       position="190.02863,79.913588"
        orientation="1,0"
        id="guide835"
        inkscape:locked="false" />
@@ -95,11 +95,11 @@
      id="layer2"
      inkscape:label="GFX">
     <rect
-       style="opacity:1;fill:#000080;fill-opacity:1;stroke-width:0.22643538"
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke-width:0.22908582"
        id="rect815"
-       width="136.20506"
+       width="139.41229"
        height="61.988094"
-       x="52.841923"
+       x="49.634689"
        y="64.648079" />
     <g
        aria-label="FEDGE"
@@ -108,7 +108,7 @@
        transform="translate(-7.6914674,-77.003698)">
       <path
          inkscape:connector-curvature="0"
-         d="M 58.750764,152.56073 H 41.26737 q -1.623458,0 -2.372746,1.04068 -0.749288,1.04068 -0.749288,2.53926 v 12.86278 h 18.898716 v 6.41058 H 38.145336 v 23.85234 h -7.53451 v -44.4994 q 0,-3.78807 3.246916,-6.32732 3.080407,-2.456 6.910103,-2.456 h 17.982919 z"
+         d="M 54.593026,152.56073 H 37.109632 q -1.623458,0 -2.372746,1.04068 -0.749288,1.04068 -0.749288,2.53926 v 12.86278 h 18.898716 v 6.41058 H 33.987598 v 23.85234 h -7.53451 v -44.4994 q 0,-3.78807 3.246916,-6.32732 3.080407,-2.456 6.910103,-2.456 h 17.982919 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#000080;stroke-width:2.09198165"
          id="path849" />
       <path
@@ -124,15 +124,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.50224304px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.21255608"
-       x="21.915388"
-       y="143.96387"
+       style="font-style:normal;font-weight:normal;font-size:9.07695103px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.22692376"
+       x="10.62018"
+       y="144.63072"
        id="text831"><tspan
          sodipodi:role="line"
          id="tspan829"
-         x="21.915388"
-         y="143.96387"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.74782562px;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:3.77947855px;word-spacing:2.36217403px;fill:#000080;stroke-width:0.21255608">COMPUTER SERVICES</tspan></text>
+         x="10.62018"
+         y="144.63072"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.81229591px;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:4.03495169px;word-spacing:2.52184486px;fill:#000080;stroke-width:0.22692376">COMPUTER SERVICES</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:84.93623352px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.12340569"
@@ -144,6 +144,13 @@
          x="118.24603"
          y="122.29822"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.12340569">GE</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000080;stroke-width:2.27540445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-4"
+       width="176.29924"
+       height="61.988098"
+       x="12.688858"
+       y="64.479164" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.87852859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.27835053;stroke:none;stroke-width:1.27196312"
