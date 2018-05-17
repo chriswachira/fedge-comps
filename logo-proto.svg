@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69999999"
-     inkscape:cx="424.34408"
-     inkscape:cy="466.56744"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="294.88912"
+     inkscape:cy="363.63399"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -80,7 +80,8 @@
      inkscape:label="BG"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-87)">
+     transform="translate(0,-87)"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.26448864"
        id="rect907"
@@ -89,18 +90,37 @@
        x="0"
        y="-0.0029732322"
        transform="translate(0,87)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.87852859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.27835053;stroke:none;stroke-width:1.27196312"
+       x="-96.452942"
+       y="161.51147"
+       id="text873"
+       transform="rotate(-37.42948,128.40643,43.5)"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="-96.452942"
+         y="161.51147"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ff0000;fill-opacity:0.27835053;stroke-width:1.27196312">SAMPLE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="GFX">
     <rect
-       style="opacity:1;fill:#000080;fill-opacity:1;stroke-width:0.22908582"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000080;stroke-width:1.96971774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect815"
-       width="139.41229"
-       height="61.988094"
-       x="49.634689"
-       y="64.648079" />
+       width="137.30144"
+       height="61.049526"
+       x="51.426601"
+       y="64.933617" />
+    <rect
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.04678559;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-4"
+       width="37.325279"
+       height="61.988098"
+       x="12.688858"
+       y="64.479164" />
     <g
        aria-label="FEDGE"
        style="font-style:normal;font-weight:normal;font-size:83.67926788px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.09198165"
@@ -109,17 +129,17 @@
       <path
          inkscape:connector-curvature="0"
          d="M 54.593026,152.56073 H 37.109632 q -1.623458,0 -2.372746,1.04068 -0.749288,1.04068 -0.749288,2.53926 v 12.86278 h 18.898716 v 6.41058 H 33.987598 v 23.85234 h -7.53451 v -44.4994 q 0,-3.78807 3.246916,-6.32732 3.080407,-2.456 6.910103,-2.456 h 17.982919 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#000080;stroke-width:2.09198165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.09198165"
          id="path849" />
       <path
          inkscape:connector-curvature="0"
          d="M 91.053414,199.308 H 73.070495 q -3.871323,0 -6.910103,-2.41437 -3.246916,-2.53926 -3.246916,-6.2857 v -35.84096 q 0,-3.78807 3.246916,-6.32732 3.080407,-2.456 6.910103,-2.456 h 17.982919 v 6.57708 H 73.570021 q -1.623458,0 -2.372747,1.04068 -0.749288,1.04068 -0.749288,2.53926 v 12.86278 h 18.898716 v 6.41058 H 70.447986 v 13.8202 q 0,1.49858 0.749288,2.53926 0.749289,1.04068 2.372747,1.04068 h 17.483393 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.09198165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#000080;stroke-width:2.09198165"
          id="path851" />
       <path
          inkscape:connector-curvature="0"
          d="m 125.68718,190.98257 q 0,3.70482 -2.24786,5.99431 -2.24787,2.33112 -5.99431,2.33112 H 95.216127 v -53.19947 h 20.563803 q 4.07946,0 6.95173,2.66414 2.95552,2.70576 2.95552,6.82684 z m -7.53451,-1.78996 v -32.2194 q 0,-2.78902 -2.16461,-4.03783 -0.66603,-0.37465 -1.5402,-0.37465 h -11.6556 v 40.21181 h 12.90441 q 2.16461,0 2.37275,-2.28949 0.0833,-0.62441 0.0833,-1.29044 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.09198165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#000080;stroke-width:2.09198165"
          id="path853" />
     </g>
     <text
@@ -135,7 +155,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.81229591px;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:4.03495169px;word-spacing:2.52184486px;fill:#000080;stroke-width:0.22692376">COMPUTER SERVICES</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:84.93623352px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.12340569"
+       style="font-style:normal;font-weight:normal;font-size:84.93623352px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2.12340569;"
        x="118.24603"
        y="122.29822"
        id="text885"><tspan
@@ -143,25 +163,6 @@
          id="tspan883"
          x="118.24603"
          y="122.29822"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.12340569">GE</tspan></text>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000080;stroke-width:2.27540445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect815-4"
-       width="176.29924"
-       height="61.988098"
-       x="12.688858"
-       y="64.479164" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:50.87852859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.27835053;stroke:none;stroke-width:1.27196312"
-       x="-96.452942"
-       y="161.51147"
-       id="text873"
-       transform="rotate(-37.42948,1.7743542e-6,0)"><tspan
-         sodipodi:role="line"
-         id="tspan871"
-         x="-96.452942"
-         y="161.51147"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ff0000;fill-opacity:0.27835053;stroke-width:1.27196312">SAMPLE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#000080;stroke-width:2.12340569;">GE</tspan></text>
   </g>
 </svg>
