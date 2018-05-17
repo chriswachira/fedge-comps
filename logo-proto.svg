@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.69999999"
-     inkscape:cx="554.90661"
-     inkscape:cy="382.28869"
+     inkscape:cx="371.11287"
+     inkscape:cy="375.46242"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -54,19 +54,14 @@
        id="guide835"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="162.01004,118.02306"
+       position="188.98809,87.690475"
        orientation="0,1"
        id="guide837"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="90.714284,127.99218"
+       position="155.72619,141.17411"
        orientation="0,1"
        id="guide839"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="155.28359,111.18412"
-       orientation="0,1"
-       id="guide847"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -85,8 +80,7 @@
      inkscape:label="BG"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-87)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-87)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.26448864"
        id="rect907"
@@ -101,11 +95,11 @@
      id="layer2"
      inkscape:label="GFX">
     <rect
-       style="opacity:1;fill:#000080;fill-opacity:1;stroke-width:0.22632428"
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke-width:0.22643538"
        id="rect815"
-       width="136.07143"
+       width="136.20506"
        height="61.988094"
-       x="52.975559"
+       x="52.841923"
        y="64.648079" />
     <g
        aria-label="FEDGE"
@@ -127,17 +121,6 @@
          d="m 125.68718,190.98257 q 0,3.70482 -2.24786,5.99431 -2.24787,2.33112 -5.99431,2.33112 H 95.216127 v -53.19947 h 20.563803 q 4.07946,0 6.95173,2.66414 2.95552,2.70576 2.95552,6.82684 z m -7.53451,-1.78996 v -32.2194 q 0,-2.78902 -2.16461,-4.03783 -0.66603,-0.37465 -1.5402,-0.37465 h -11.6556 v 40.21181 h 12.90441 q 2.16461,0 2.37275,-2.28949 0.0833,-0.62441 0.0833,-1.29044 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.09198165"
          id="path853" />
-      <path
-         d="m 167.42171,168.98064 2.53925,1.91485 c 2.10437,1.58691 -2.35214,4.92409 -2.35214,4.92409 l -5.23106,-1e-5 -0.64148,0.96885 V 199.308 h -7.24312 v -2.16461 c -1.66509,1.44307 -3.60769,2.16461 -5.8278,2.16461 h -9.57424 c -2.55313,0 -4.70386,-0.80479 -6.4522,-2.41437 -1.85935,-1.63734 -2.78902,-3.70482 -2.78902,-6.20245 v -35.92421 c 0,-2.52538 1.08231,-4.63449 3.24692,-6.32732 2.0536,-1.63733 4.35697,-2.456 6.9101,-2.456 h 12.57139 c 2.46988,0 4.59286,0.84642 6.36895,2.53925 1.80385,1.69284 2.70577,3.7742 2.70577,6.24407 v 3.41343 h -7.53451 c 0,-1.85935 -0.11101,-3.09429 -0.33302,-3.70482 -0.44403,-1.27657 -1.4292,-1.91485 -2.95553,-1.91485 h -10.32352 c -1.08231,0 -1.87322,0.34689 -2.37275,1.04068 -0.49953,0.69379 -0.74929,1.54021 -0.74929,2.53926 v 33.55146 c 0,2.08136 1.04068,3.12204 3.12204,3.12204 h 7.65939 c 1.58183,0 2.94165,-0.55503 4.07946,-1.66509 1.13781,-1.08231 1.70671,-2.41437 1.70671,-3.9962 v -11.2997 l 3.87812,-6.87254 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.09198165"
-         id="path855"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccccccsscsscsscscccssssssscsccc" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 194.2887,199.308 h -17.98292 q -3.87132,0 -6.91011,-2.41437 -3.24691,-2.53926 -3.24691,-6.2857 v -35.84096 q 0,-3.78807 3.24691,-6.32732 3.08041,-2.456 6.91011,-2.456 h 17.98292 v 6.57708 h -17.4834 q -1.62345,0 -2.37274,1.04068 -0.74929,1.04068 -0.74929,2.53926 v 12.86278 h 18.89872 v 6.41058 h -18.89872 v 13.8202 q 0,1.49858 0.74929,2.53926 0.74929,1.04068 2.37274,1.04068 h 17.4834 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.25235748px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.09198165"
-         id="path857" />
     </g>
     <text
        xml:space="preserve"
@@ -152,36 +135,26 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.74782562px;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:3.77947855px;word-spacing:2.36217403px;fill:#000080;stroke-width:0.21255608">COMPUTER SERVICES</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:50.87852859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.2783505;stroke:none;stroke-width:1.27196312;"
+       style="font-style:normal;font-weight:normal;font-size:84.93623352px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.12340569"
+       x="118.24603"
+       y="122.29822"
+       id="text885"><tspan
+         sodipodi:role="line"
+         id="tspan883"
+         x="118.24603"
+         y="122.29822"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#ffffff;stroke-width:2.12340569">GE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.87852859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.27835053;stroke:none;stroke-width:1.27196312"
        x="-96.452942"
        y="161.51147"
        id="text873"
-       transform="rotate(-37.429481)"><tspan
+       transform="rotate(-37.42948,1.7743542e-6,0)"><tspan
          sodipodi:role="line"
          id="tspan871"
          x="-96.452942"
          y="161.51147"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ff0000;fill-opacity:0.2783505;stroke-width:1.27196312;">SAMPLE</tspan></text>
-    <rect
-       style="opacity:1;fill:#000080;fill-opacity:0.9948454;stroke:none;stroke-width:0.59642816;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect849"
-       width="30.054012"
-       height="6.4093122"
-       x="22.918921"
-       y="91.999756" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.9948454;stroke:none;stroke-width:0.50393176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect849-3"
-       width="21.455055"
-       height="6.4093122"
-       x="52.905785"
-       y="91.994972" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.9948454;stroke:none;stroke-width:0.52379292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect849-3-6"
-       width="23.179573"
-       height="6.4093122"
-       x="165.99181"
-       y="92.001022" />
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ff0000;fill-opacity:0.27835053;stroke-width:1.27196312">SAMPLE</tspan></text>
   </g>
 </svg>
