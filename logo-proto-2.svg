@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="logo-proto-2.svg"
-   inkscape:export-filename="/home/netpro/Documents/g-designs/fedge-comps/logo-proto.png"
+   inkscape:export-filename="/home/netpro/Documents/g-designs/fedge-comps/logo-proto-2.png"
    inkscape:export-xdpi="300.009"
    inkscape:export-ydpi="300.009">
   <defs
@@ -30,7 +30,7 @@
          offset="0"
          id="stop1697" />
       <stop
-         style="stop-color:#00d7eb;stop-opacity:1"
+         style="stop-color:#001188;stop-opacity:1"
          offset="1"
          id="stop1699" />
     </linearGradient>
@@ -86,7 +86,8 @@
        y1="311.60001"
        x2="370.94583"
        y2="339.38126"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0222316,0,0,1.0222316,-249.57498,-241.22218)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -95,11 +96,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="415.11381"
-     inkscape:cy="63.103387"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="425.5717"
+     inkscape:cy="190.32507"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -274,49 +275,41 @@
        id="path1568-6-9"
        inkscape:connector-curvature="0" />
     <g
-       id="g1738"
-       transform="matrix(0.80882367,0,0,0.80882367,3.9955165,13.67143)">
-      <g
-         transform="matrix(1.2638497,0,0,1.2638497,-313.50529,-315.36166)"
-         id="g1669">
-        <path
-           style="opacity:1;fill:url(#linearGradient1645);fill-opacity:1;stroke:none;stroke-width:0.70710683;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 265.64779,339.69268 v -4.62711 L 273.90754,330.3 c 4.54287,-2.6211 8.38453,-4.85672 8.53704,-4.96808 0.22008,-0.16074 -1.48389,-1.21815 -8.25976,-5.12566 l -8.53703,-4.92315 v -4.67265 c 0,-3.71158 0.0481,-4.63477 0.23386,-4.48852 0.12862,0.10126 7.4321,4.33379 16.22994,9.40561 8.79785,5.07183 16.14551,9.32343 16.32816,9.44797 0.34126,0.23276 0.22576,0.30112 -28.16152,16.67365 l -4.63044,2.67062 z"
-           id="path1574-2"
-           inkscape:connector-curvature="0" />
-        <path
-           style="opacity:1;fill:url(#linearGradient1653);fill-opacity:1;stroke:none;stroke-width:0.70710683;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 298.49147,331.39051 v 4.62711 l -8.25976,4.76557 c -4.54286,2.6211 -8.38453,4.85672 -8.53704,4.96808 -0.22008,0.16074 1.4839,1.21815 8.25976,5.12566 l 8.53704,4.92315 v 4.67265 c 0,3.71158 -0.0481,4.63477 -0.23386,4.48852 -0.12863,-0.10126 -7.4321,-4.33379 -16.22995,-9.40561 -8.79785,-5.07183 -16.14552,-9.32343 -16.32817,-9.44797 -0.34126,-0.23276 -0.22576,-0.30112 28.16153,-16.67365 l 4.63045,-2.67062 z"
-           id="path1574-2-1"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="matrix(1.2638497,0,0,1.2638497,-313.50529,-315.14114)"
-         id="g1728">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:14.72478676px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1703);fill-opacity:1;stroke:none;stroke-width:0.36811969"
-           x="312.21747"
-           y="347.15036"
-           id="text1657"><tspan
-             sodipodi:role="line"
-             id="tspan1655"
-             x="312.21747"
-             y="347.15036"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.89914703px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:url(#linearGradient1703);fill-opacity:1;stroke-width:0.36811969">FEDGE</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000b85;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="314.32501"
-           y="360.40393"
-           id="text1661"><tspan
-             sodipodi:role="line"
-             id="tspan1659"
-             x="314.32501"
-             y="360.40393"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:2.3812499px;word-spacing:5.29166651px;fill:#000b85;fill-opacity:1;stroke-width:0.26458332">COMPUTER SERVICES</tspan></text>
-      </g>
+       id="g1669"
+       transform="matrix(1.0222316,0,0,1.0222316,-249.57498,-241.40055)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1574-2"
+         d="m 265.64779,339.69268 v -4.62711 L 273.90754,330.3 c 4.54287,-2.6211 8.38453,-4.85672 8.53704,-4.96808 0.22008,-0.16074 -1.48389,-1.21815 -8.25976,-5.12566 l -8.53703,-4.92315 v -4.67265 c 0,-3.71158 0.0481,-4.63477 0.23386,-4.48852 0.12862,0.10126 7.4321,4.33379 16.22994,9.40561 8.79785,5.07183 16.14551,9.32343 16.32816,9.44797 0.34126,0.23276 0.22576,0.30112 -28.16152,16.67365 l -4.63044,2.67062 z"
+         style="opacity:1;fill:url(#linearGradient1645);fill-opacity:1;stroke:none;stroke-width:0.70710683;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1574-2-1"
+         d="m 298.49147,331.39051 v 4.62711 l -8.25976,4.76557 c -4.54286,2.6211 -8.38453,4.85672 -8.53704,4.96808 -0.22008,0.16074 1.4839,1.21815 8.25976,5.12566 l 8.53704,4.92315 v 4.67265 c 0,3.71158 -0.0481,4.63477 -0.23386,4.48852 -0.12863,-0.10126 -7.4321,-4.33379 -16.22995,-9.40561 -8.79785,-5.07183 -16.14552,-9.32343 -16.32817,-9.44797 -0.34126,-0.23276 -0.22576,-0.30112 28.16153,-16.67365 l 4.63045,-2.67062 z"
+         style="opacity:1;fill:url(#linearGradient1653);fill-opacity:1;stroke:none;stroke-width:0.70710683;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.05214214px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1703);fill-opacity:1;stroke:none;stroke-width:0.37630358"
+       x="69.58358"
+       y="113.64589"
+       id="text1657"><tspan
+         sodipodi:role="line"
+         id="tspan1655"
+         x="69.58358"
+         y="113.64589"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.20856857px;font-family:Uroob;-inkscape-font-specification:Uroob;fill:url(#linearGradient1703);fill-opacity:1;stroke-width:0.37630358">FEDGE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.81861782px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000b85;fill-opacity:1;stroke:none;stroke-width:0.27046543"
+       x="71.737984"
+       y="127.19411"
+       id="text1661"><tspan
+         sodipodi:role="line"
+         id="tspan1659"
+         x="71.737984"
+         y="127.19411"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:2.43418884px;word-spacing:5.40930891px;fill:#000b85;fill-opacity:1;stroke-width:0.27046543">COMPUTER SERVICES</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.87852859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.27835053;stroke:none;stroke-width:1.27196312"
